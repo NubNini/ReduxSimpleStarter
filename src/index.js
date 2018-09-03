@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-const API_KEY = "https://github.com/StephenGrider/ReduxSimpleStarter.git";
+const API_KEY = "AIzaSyBoUeQ_ro6i50AmCU6OKEyZnxFmJ9NoqMg";
 // Create a new component. This component
 // should produce some HTML
 
